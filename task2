@@ -2,4 +2,19 @@ Hi Mubeena,
 Welcome to the Git.
 Hope you are enjoying working on it.
 Branch-B: Welcome working with me!
+<<<<<<< Updated upstream
+
+=======
+>>>>>>> Stashed changes
 Have fun!
+
+Welcome to the Github.
+
+Hope you are enjoying working on it.
+
+Branch-A: Welcome working with me!
+
+Have fun!
+
+Did you have fun doing the task?
+
